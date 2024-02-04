@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+
+.pairidField{
+    width: 300px;
+    margin:  0 auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    font-size: large;
+    font-family: 'Yomogi', cursive;
+}
+
+.leavePairButton{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 10%;
+    background-color: white;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.pairPostIcon1{
+    width: 200px;
+    height: 200px;
+    display: block;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.pairPostIcon2{
+    width: 200px;
+    height: 200px;
+    display: block;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.pairIconAndNickname1{
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.pairIconAndNickname2{
+    margin-right: auto;
+    margin-left: 10px;
+}
+.pairListIcons{
+    list-style: none;
+    margin-top: 20px;
+    padding: 0;
+    display: flex;
+}
